@@ -85,3 +85,4 @@ man echo
 ./questionnaire.sh
 touch countdown.sh
 chmod +x countdown.sh
+./countdown.sh
