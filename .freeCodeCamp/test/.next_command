@@ -58,3 +58,4 @@ echo hello bash
 touch questionaire.sh
 rm questionaire.sh
 touch questionnaire.sh
+sh questionnaire.sh
