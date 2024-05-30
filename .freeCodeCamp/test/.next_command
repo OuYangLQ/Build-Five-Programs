@@ -70,3 +70,4 @@ ls --color=auto -l
 ./questionnaire.sh
 echo "ls -l" >> questionnaire.sh
 cat questionnaire.sh
+./questionnaire.sh
