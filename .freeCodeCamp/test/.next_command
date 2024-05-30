@@ -233,3 +233,4 @@ echo $ARR[5]
 echo ${ARR[5]}
 echo ${RESPONSES[5]}
 echo ${RESPONSES[5]}
+./fortune.sh
