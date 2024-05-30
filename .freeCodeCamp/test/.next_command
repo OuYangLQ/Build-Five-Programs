@@ -68,3 +68,5 @@ ls --color=auto -l
 chmod +x questionnaire.sh
 ls --color=auto -l
 ./questionnaire.sh
+echo "ls -l" >> questionnaire.sh
+cat questionnaire.sh
