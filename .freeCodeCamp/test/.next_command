@@ -74,3 +74,4 @@ cat questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh OY
 ./questionnaire.sh
+./questionnaire.sh
