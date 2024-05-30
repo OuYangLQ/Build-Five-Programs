@@ -142,3 +142,4 @@ chmod -x bingo.sh
 ls --color=auto -l bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
+printenv
