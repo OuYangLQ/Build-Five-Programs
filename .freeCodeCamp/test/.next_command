@@ -229,3 +229,7 @@ echo $ARR*
 echo $*ARR
 echo ${ARR[@]}
 declare -p ARR
+echo $ARR[5]
+echo ${ARR[5]}
+echo ${RESPONSES[5]}
+echo ${RESPONSES[5]}
