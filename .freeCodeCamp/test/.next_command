@@ -179,3 +179,5 @@ j=$(( I - 6 ))
 J=$(( I - 6 ))
 echo J
 echo $J
+echo J bingo.sh countdown.sh questionnaire.sh 5 + 25
+echo $(( J bingo.sh countdown.sh questionnaire.sh 5 + 25 ))
