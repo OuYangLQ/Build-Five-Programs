@@ -55,3 +55,6 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git push -u origin main
 echo hello bash
+touch questionaire.sh
+rm questionaire.sh
+touch questionnaire.sh
