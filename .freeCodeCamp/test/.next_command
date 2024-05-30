@@ -111,3 +111,6 @@ echo $?
 bad_command
 echo $?
 bad_command
+ls --color=auto
+bad_command
+ls --color=auto
