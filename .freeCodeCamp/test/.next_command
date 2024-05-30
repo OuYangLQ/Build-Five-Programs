@@ -95,3 +95,4 @@ help if
 ./countdown.sh a
 ./countdown.sh a
 ./countdown.sh 4
+./countdown.sh 5
