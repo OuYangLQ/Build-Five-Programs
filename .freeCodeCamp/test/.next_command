@@ -217,3 +217,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help let
 ./bingo.sh
 ./bingo.sh
+touch fortune.sh
