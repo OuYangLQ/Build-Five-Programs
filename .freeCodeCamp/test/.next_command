@@ -62,3 +62,5 @@ sh questionnaire.sh
 bash questionnaire.sh
 which bash
 echo
+./ questionnaire.sh
+./questionnaire.sh
