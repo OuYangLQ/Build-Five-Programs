@@ -64,3 +64,4 @@ which bash
 echo
 ./ questionnaire.sh
 ./questionnaire.sh
+ls --color=auto -l
