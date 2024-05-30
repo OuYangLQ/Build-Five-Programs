@@ -148,3 +148,5 @@ echo LANG=en_US.UTF-8
 echo $LANG
 declare -p
 echo $RANDOM
+./bingo.sh
+./bingo.sh
